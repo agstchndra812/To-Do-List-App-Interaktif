@@ -51,9 +51,4 @@ CSS
 
 JavaScript (Vanilla JS)
 
-todo-list-app/
-│
-├── index.html
-├── style.css
-└── script.js
 
