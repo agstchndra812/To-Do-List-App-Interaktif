@@ -51,9 +51,9 @@ CSS
 
 JavaScript (Vanilla JS)
 
-📁 Struktur Folder
 todo-list-app/
 │
 ├── index.html
 ├── style.css
 └── script.js
+
