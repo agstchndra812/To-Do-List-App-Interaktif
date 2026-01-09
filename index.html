@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <title>To-Do List App</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>To-Do List Harian</h1>
+    <p class="subtitle">Kelola tugas harian Anda</p>
+
+    <div class="input-section">
+      <input type="text" id="taskInput" placeholder="Masukkan tugas...">
+      <button id="addBtn">Tambah</button>
+    </div>
+
+    <p id="pesan"></p>
+
+    <ul id="taskList"></ul>
+
+    <div class="info">
+      <div>Total Tugas<br><span id="totalTask">0</span></div>
+      <div>Tugas Selesai<br><span id="doneTask">0</span></div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
